@@ -1,0 +1,117 @@
+
+.about{
+    text-align: center;
+    font-weight: bold;
+    font-family: arial;
+    margin-top: 10px;
+    color: limegreen;
+}
+
+.Name{
+font-family: arial;
+font-size: 18px;
+text-align: center;
+display: inline-block;
+}
+
+.photo{
+    width: 150px;
+    height: 150px;
+    border-radius: 20px;
+   border: solid;
+   border-color:limegreen;
+   box-shadow: rgba(95, 223, 45, 0.3);
+
+
+
+ 
+}
+.edit{
+font-family: arial;
+font-size: 15px;
+
+
+
+}
+
+.figma{
+font-family: arial;
+font-size: 15px;
+
+
+
+}
+
+.basic{
+font-family: arial;
+font-size: 15px;
+
+
+}
+
+.gaming{
+font-family: arial;
+font-size: 15px;
+
+
+}
+
+.listening{
+font-family: arial;
+font-size: 15px;
+
+}
+
+.cook{
+font-family: arial;
+  font-size: 15px;
+  
+ 
+}
+
+.picture{
+   width: 160px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);  
+  display: inline-block;
+}
+
+
+.My{
+    font-weight: bold;
+    font-family: arial;
+    font-size: 15px;
+    margin-bottom: 3px;
+    color: limegreen;
+}
+
+.Top{
+font-weight: bold;
+    font-family: arial;
+    font-size: 15px;
+    margin-bottom: 3px;
+    color: limegreen;
+}
+
+.week{
+    font-weight: bold;
+    font-family: arial;
+    font-size: 15px;
+    margin-bottom: 3px;
+    color: limegreen;
+    margin-left: 65px;
+}
+
+.click{
+    font-weight: bold;
+    font-family: arial;
+    font-size: 15px;
+    margin-bottom: 0px;
+    color: limegreen;
+    text-align: center;
+    
+}
+
+.box{
+    display: block;
+   margin-left: 20px;
+}
